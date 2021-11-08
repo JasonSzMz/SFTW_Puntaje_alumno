@@ -1,0 +1,110 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+8
+"Nombre"
+5
+1
+4
+name
+4
+1
+11
+"Matricula"
+5
+1
+9
+matricula
+4
+1
+17
+"1° calificación"
+5
+1
+4
+cal1
+4
+1
+17
+"2° calificación"
+5
+1
+4
+cal2
+4
+1
+17
+"3° calificación"
+5
+1
+4
+cal3
+4
+1
+17
+"4° calificación"
+5
+1
+4
+cal4
+4
+1
+17
+"5° calificación"
+5
+1
+4
+cal5
+6
+1
+8
+promedio
+28
+(cal1+cal2+cal3+cal4+cal5)/5
+7
+0
+1
+12
+promedio > 7
+4
+1
+22
+"Matricula", matricula
+4
+1
+15
+"Nombre: ",name
+4
+1
+20
+"Promedio", promedio
+4
+1
+25
+"Presentar examen global"
+13
+6
+1
+8
+promedio
+10
+promedio+1
+4
+1
+22
+"Matricula", matricula
+4
+1
+15
+"Nombre: ",name
+4
+1
+20
+"Promedio", promedio
+13
+1
